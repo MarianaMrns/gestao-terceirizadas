@@ -1,0 +1,4 @@
+com\empresa\gestaoterceirizadas\model\Terceirizada.class
+com\empresa\gestaoterceirizadas\service\CalculadoraFinanceira.class
+com\empresa\gestaoterceirizadas\model\ContratoTerceirizada.class
+com\empresa\gestaoterceirizadas\GestaoTerceirizadas.class
